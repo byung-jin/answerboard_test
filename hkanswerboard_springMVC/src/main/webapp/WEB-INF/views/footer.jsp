@@ -10,7 +10,6 @@
 <body>
 <div id="footer">
 	<address>한경닷컴 교육센터 3강 웹과정 양평동 월드메르디앙 비즈센터</address>
-	<a href="index.jsp">index</a>
 </div>
 </body>
 </html>
