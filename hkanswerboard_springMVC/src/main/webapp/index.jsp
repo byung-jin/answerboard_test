@@ -9,5 +9,6 @@
 </head>
 <body>
 <a href="boardlist.do">글목록보기</a>
+<span>하이루</span>
 </body>
 </html>
