@@ -9,5 +9,6 @@
 </head>
 <body>
 <a href="boardlist.do">글목록보기</a>
+<span>안녕하세요!!</span>
 </body>
 </html>
